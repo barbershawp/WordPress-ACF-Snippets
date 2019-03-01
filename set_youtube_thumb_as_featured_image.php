@@ -2,7 +2,7 @@
 Instructions:
 1. Add this to your theme's functions.php file
 2. Add a "Video URL" Url field to your desired post
-3. Create a new post, enter and youtube cideo URL into the field, publish/update the post.
+3. Create a new post, enter and youtube video URL into the field, publish/update the post
 Voila! YouTube thumbnail is now Featured Image
 */
 
